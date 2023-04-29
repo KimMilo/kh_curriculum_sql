@@ -8,9 +8,49 @@
 </div><br>
 <div align="center">
  <div>🔶 기본함수 관련</div><br>
- <img src="https://user-images.githubusercontent.com/115056845/235309422-bdfbefaf-c377-4f96-a641-4df9a9b1a579.gif">
+ <img src="https://user-images.githubusercontent.com/115056845/235310841-9ed1a94c-fa8d-46e5-9122-eee34bd89f76.gif">
 </div><br>
 <div align="center">
- <div>🔶 기본함수 관련</div><br>
- <img src="https://user-images.githubusercontent.com/115056845/235309422-bdfbefaf-c377-4f96-a641-4df9a9b1a579.gif">
+ <div>🔶 Group By 관련</div><br>
+ <img src="https://user-images.githubusercontent.com/115056845/235310507-61d3c66e-9fda-42f7-a2be-f88e8156637b.gif">
+</div><br>
+<div align="center">
+ <div>🔶 일반집합연산자</div><br>
+ <img src="https://user-images.githubusercontent.com/115056845/235310973-1581d9fb-c7bf-488f-be51-984c45d36eef.gif">
+</div><br>
+<div align="center">
+ <div>🔶 DML: INSERT, UPDATE</div><br>
+ <img src="https://user-images.githubusercontent.com/115056845/235311207-c0055239-3ca0-4b7b-b352-91bbaa564cb0.gif">
+</div><br>
+<div align="center">
+ <div>🔶 INSERT INTO, INSERT ALL INTO</div><br>
+ <img src="https://user-images.githubusercontent.com/115056845/235311331-647724d5-c279-4e74-b855-9956a3afaffc.gif">
+</div><br>
+<div align="center">
+ <div>🔶 Java_JDBC(DB활용)</div><br>
+ <img src="https://user-images.githubusercontent.com/115056845/235312168-037f621e-14be-4ee4-a99c-31777b68d303.gif">
+</div><br>
+<div align="center">
+ <div>🔶 JOIN 관련</div><br>
+ <img src="https://user-images.githubusercontent.com/115056845/235312278-1eb4a422-daef-4aba-b42e-95ec0a1b19cd.gif">
+</div><br>
+<div align="center">
+ <div>🔶 Sub Query, RANK() OVER 관련</div><br>
+ <img src="https://user-images.githubusercontent.com/115056845/235312513-a8bf31ab-b064-4e92-96f1-ddeebdb0f7a9.gif">
+</div><br>
+<div align="center">
+ <div>🔶 SEQUENCE</div><br>
+ <img src="https://user-images.githubusercontent.com/115056845/235312902-d9824984-3a27-4542-a3dc-2eb1ad9b13f2.gif">
+</div><br>
+<div align="center">
+ <div>🔶 VIEW</div><br>
+ <img src="https://user-images.githubusercontent.com/115056845/235313034-edbc093a-8f5f-4e5c-8616-0faad4bbfbba.gif">
+</div><br>
+<div align="center">
+ <div>🔶 PROCEDURE</div><br>
+ <img src="https://user-images.githubusercontent.com/115056845/235314431-2e834eeb-9f22-400a-9c90-cee8478e1afb.gif">
+</div><br>
+<div align="center">
+ <div>🔶 FUNCTION</div><br>
+ <img src="https://user-images.githubusercontent.com/115056845/235314551-37fedc3b-497e-48bf-b6f2-d1c769a238cc.gif">
 </div><br>
