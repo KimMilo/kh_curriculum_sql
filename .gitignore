@@ -1,5 +1,10 @@
 # Compiled class file
 *.class
+build/
+target/
+properties/
+*.properties
+
 
 # Log file
 *.log
@@ -21,4 +26,22 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
-replay_pid*
+
+# Eclipse File Ignore
+.classpath
+.project
+.settings/
+
+# DBeaver File Ignore
+.dbeaver/
+
+# STS (Spring Tool Suite)
+.springBeans
+
+### Maven ###
+target/
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+.mvn/wrapper/maven-wrapper.jar
