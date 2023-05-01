@@ -15,7 +15,7 @@ BEGIN
     DBMS_OUTPUT.PUT_LINE('프로시져 동작!!!');
 END;
 
-/* SQLPlus 에서 실행하는 명령어 */
+/* SQLPlus 에서 실행하는 명령어 */ 
 EXEC PROC_SAMPLE1;
 
 /* SQLPlus 외의 도구에서 실행하는 방법 */
