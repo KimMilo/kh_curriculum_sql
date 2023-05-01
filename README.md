@@ -3,6 +3,18 @@
 ## ✅ 일부 구현 이미지
 
 <div align="center">
+ <div>🔶 05_실습_SQL01</div><br>
+ <img src="https://user-images.githubusercontent.com/115056845/235453070-c4bab35c-b51e-4bc8-b2ab-296cbae5b961.gif">
+</div><br>
+<div align="center">
+ <div>🔶 05_실습_SQL02</div><br>
+ <img src="https://user-images.githubusercontent.com/115056845/235453077-beda2702-98f4-411f-a72e-10008bf1faa5.gif">
+</div><br>
+<div align="center">
+ <div>🔶 05_실습_SQL03</div><br>
+ <img src="https://user-images.githubusercontent.com/115056845/235453078-62a13f4c-6413-415f-b59c-55453775ee0a.gif">
+</div><br>
+<div align="center">
  <div>🔶 SELECT</div><br>
  <img src="https://user-images.githubusercontent.com/115056845/235309278-31e78dd2-ebb9-4bc3-a858-19ad1c3637f3.gif">
 </div><br>
