@@ -4,7 +4,7 @@
  * 		- 이메일 뒤에는 @employees.co.kr 을 붙여야 한다.
  * 		- 전화번호의 구분자는 . 대신 - 이 사용되도록 한다.
  * 		- 고용일은 xxxx년 xx월 xx일 형식으로 출력되게 한다.
- */
+ */ 
 
 SELECT FIRST_NAME || ' ' || LAST_NAME AS 직원이름
 	 , EMAIL || '@employees.co.kr' AS 이메일
