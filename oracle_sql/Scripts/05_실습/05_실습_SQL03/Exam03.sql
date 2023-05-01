@@ -1,5 +1,5 @@
 /* 05_실습_SQL03_SELECT(Option).pdf */
-/* 1번 문제 */
+/* 1번 문제 */ 
 SELECT STUDENT_NAME AS "학생 이름"
  , STUDENT_ADDRESS AS 주소지
  FROM TB_STUDENT
