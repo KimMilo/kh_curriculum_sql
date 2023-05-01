@@ -119,7 +119,7 @@ UPDATE TEMP
 
 SELECT * FROM TEMP;
 
-/*
+/* 
  * NEXTVAL, CURRVAL 을 사용할 수 있는 명령어
  * 		1. SELECT 문(서브쿼리 아님)
  *      2. INSERT 문의 VALUES 절
