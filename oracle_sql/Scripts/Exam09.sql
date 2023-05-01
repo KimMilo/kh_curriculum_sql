@@ -16,7 +16,7 @@ SELECT RNK
   	
 /*
  * 평균 급여가 가장 높은 부서 TOP3 를 구하세요.
- */
+ */ 
 
 
 SELECT RNK
