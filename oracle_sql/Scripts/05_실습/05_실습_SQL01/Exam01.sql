@@ -1,5 +1,5 @@
 /* 05_실습_SQL01_SELECT(Basic).pdf */
-/* 1번 문제 */
+/* 1번 문제 */ 
 SELECT DEPARTMENT_NAME AS "학과 명"
  , CATEGORY AS 계열
  FROM TB_DEPARTMENT
