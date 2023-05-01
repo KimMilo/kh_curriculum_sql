@@ -1,5 +1,5 @@
 package kr.co.db.vo;
-
+ 
 import java.util.Objects;
 
 public class JobVO {
