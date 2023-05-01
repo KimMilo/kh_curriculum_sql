@@ -1,4 +1,4 @@
-/*
+/* 
  * JOB_ID 별 최고급여액, 최저급여액을 구하시오
  * COMMISION_PCT가 있는 경우 COMMISSION_PCT를 포함한 급여액으로 구하세요.
  */
