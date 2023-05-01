@@ -38,7 +38,7 @@ SELECT EMPLOYEE_ID EMP_ID
   FROM EMP;
 
 SELECT * FROM V_EMP;
--- 테이블 없는 VIEW 를 강제로 생성하여 에러발생.
+-- 테이블 없는 VIEW 를 강제로 생성하여 에러발생. 
 -- --> VIEW 먼저 만들고 나중에 TABLE 만들 때 사용함.
 
 /* WITH READ ONLY 옵션 : 읽기전용(INSERT, UPDATE, DELETE 불가, SELECT만 가능) */
