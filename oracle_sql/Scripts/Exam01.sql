@@ -1,4 +1,4 @@
--- 사원 정보 테이블
+-- 사원 정보 테이블 
 SELECT * FROM EMPLOYEES;
 
 -- 부서 정보 테이블
