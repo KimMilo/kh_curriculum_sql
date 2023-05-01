@@ -1,5 +1,5 @@
 /* 05_실습_SQL02_SELECT(Function).pdf */
- 
+  
 /* 1번 문제 */
 SELECT STUDENT_NO AS 학번
  , STUDENT_NAME AS 이름
