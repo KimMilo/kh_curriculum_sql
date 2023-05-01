@@ -11,7 +11,7 @@ SELECT EMPLOYEE_ID AS EMP_ID
   FROM EMPLOYEES;	 
   
 SELECT * FROM EMP_SAMPLE;
-
+ 
 /*
  * 홍길동 사원 정보를 추가 한다.
  * 홍길동 사원의 EMP_ID 는 기존 EMP_ID의 값 중 가장 큰 EMP_ID + 1한 값이 저장되게 한다.
