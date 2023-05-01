@@ -15,7 +15,7 @@ SELECT D.DEPARTMENT_ID
     ON D.LOCATION_ID = L.LOCATION_ID
  ORDER BY 1;
 
-/*
+/* 
  * 지역별로 몇 개의 부서가 배치되었는지 알아보세요.
  */
 
