@@ -4,7 +4,7 @@
 
 <div align="center">
  <div>🔶 05_실습_SQL01</div><br>
- <img width="800px" height="424px;" src="https://user-images.githubusercontent.com/115056845/235453070-c4bab35c-b51e-4bc8-b2ab-296cbae5b961.gif">
+ <img src="">
 </div><br>
 <div align="center">
  <div>🔶 05_실습_SQL02</div><br>
