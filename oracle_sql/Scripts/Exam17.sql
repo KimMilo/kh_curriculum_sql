@@ -3,7 +3,7 @@
  * 		- PL/SQL 구문을 사용하여 생성할 수 있는 객체
  * 		- 프로시져와 유사하며, 일반 프로그래밍 언어의 함수와 같이 값을 리턴(반환) 한다.
  * 		- FUNCTION 은 PROCEDURE 과는 다르게 SQL 구문에 같이 사용할 수 있다.
- */
+ */ 
 
 CREATE OR REPLACE FUNCTION FUNC_SAMPLE1(
 	   NUM1 NUMBER
